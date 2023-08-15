@@ -1,3 +1,7 @@
+#ifndef MYHEADERS_H
+#define MYHEADERS_H
+int add(inta ,int b);
+#endif
 #include <stdio.h>
 #include "main.h"
 
