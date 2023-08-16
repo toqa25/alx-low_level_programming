@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include "main.h"
 
+/**
+ * 98 Battery Street, the OG
+ * print_times_table - whatever man
+ *@n: integer to put in this table
+ *
+ */
 void print_to_98(int n)
 {
 	int i;
