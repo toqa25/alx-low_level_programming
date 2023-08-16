@@ -1,8 +1,8 @@
 #include <stdio.h>
+#include "6-abs.c"
 #include "main.h"
 
 /**
- * 98 Battery Street, the OG
  * print_times_table - whatever man
  *@n: integer to put in this table
  *
