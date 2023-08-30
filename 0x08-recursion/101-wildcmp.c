@@ -5,6 +5,14 @@
  *  otherwise return 0.
  */
 
+/**
+ * wildcmp - Compares two strings, considering wildcard characters.
+ * @s1: The first string.
+ * @s2: The second string.
+ *
+ * Return: Compares two strings and returns 1 or 0
+ */
+
 int wildcmp(char *s1, char *s2)
 {
 	if (*s1 == '\0' && *s2 == '\0')
